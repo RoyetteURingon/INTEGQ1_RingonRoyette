@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BL Layer/1.0.0": {
+        "runtime": {
+          "BL Layer.dll": {}
+        }
+      },
+      "DL layer/1.0.0": {
+        "runtime": {
+          "DL layer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BL Layer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DL layer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

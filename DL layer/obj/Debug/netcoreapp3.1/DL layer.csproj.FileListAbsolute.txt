@@ -1,0 +1,13 @@
+C:\Users\ACER\source\repos\DL layer\bin\Debug\netcoreapp3.1\DL layer.exe
+C:\Users\ACER\source\repos\DL layer\bin\Debug\netcoreapp3.1\DL layer.deps.json
+C:\Users\ACER\source\repos\DL layer\bin\Debug\netcoreapp3.1\DL layer.runtimeconfig.json
+C:\Users\ACER\source\repos\DL layer\bin\Debug\netcoreapp3.1\DL layer.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\DL layer\bin\Debug\netcoreapp3.1\DL layer.dll
+C:\Users\ACER\source\repos\DL layer\bin\Debug\netcoreapp3.1\DL layer.pdb
+C:\Users\ACER\source\repos\DL layer\obj\Debug\netcoreapp3.1\DL layer.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\DL layer\obj\Debug\netcoreapp3.1\DL layer.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\DL layer\obj\Debug\netcoreapp3.1\DL layer.AssemblyInfo.cs
+C:\Users\ACER\source\repos\DL layer\obj\Debug\netcoreapp3.1\DL layer.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\DL layer\obj\Debug\netcoreapp3.1\DL layer.dll
+C:\Users\ACER\source\repos\DL layer\obj\Debug\netcoreapp3.1\DL layer.pdb
+C:\Users\ACER\source\repos\DL layer\obj\Debug\netcoreapp3.1\DL layer.genruntimeconfig.cache

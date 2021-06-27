@@ -1,0 +1,46 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OnlineShoppingLayer/1.0.0": {
+        "runtime": {
+          "OnlineShoppingLayer.dll": {}
+        }
+      },
+      "BL Layer/1.0.0": {
+        "dependencies": {
+          "DL layer": "1.0.0"
+        },
+        "runtime": {
+          "BL Layer.dll": {}
+        }
+      },
+      "DL layer/1.0.0": {
+        "runtime": {
+          "DL layer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnlineShoppingLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BL Layer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DL layer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
